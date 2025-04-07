@@ -10,13 +10,14 @@ type Tab = 'Dashboard' | 'Patients' | 'Appointments' | 'Prescriptions' | 'Medica
 
 @Component({
   selector: 'app-root',
+  standalone: true,
   imports: [DashboardComponent, PatientsComponent, AppointmentsComponent, PrescriptionsComponent, MedicalRecordsComponent, TelehealthComponent],
   template: `
     <div class="app-shell">
       <header class="topbar">
         <div class="brand">
           <span class="logo-mark">+</span>
-          <span class="logo-text">CuraNet</span>
+          <span class="logo-text">Med Pocket</span>
         </div>
 
         <nav class="tabs">

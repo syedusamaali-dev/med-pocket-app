@@ -3,6 +3,7 @@ import { PATIENTS, Patient } from './mock-data';
 
 @Component({
   selector: 'app-patients',
+  standalone: true,
   template: `
     <section class="page">
       <div class="page-head">

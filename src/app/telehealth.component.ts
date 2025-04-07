@@ -2,6 +2,7 @@ import { Component, signal } from '@angular/core';
 
 @Component({
   selector: 'app-telehealth',
+  standalone: true,
   template: `
     <section class="page">
       <div class="page-head">

@@ -3,6 +3,7 @@ import { PRESCRIPTIONS, Prescription } from './mock-data';
 
 @Component({
   selector: 'app-prescriptions',
+  standalone: true,
   template: `
     <section class="page">
       <div class="page-head">

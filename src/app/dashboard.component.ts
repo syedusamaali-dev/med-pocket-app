@@ -3,6 +3,7 @@ import { METRICS, PATIENTS, APPOINTMENTS, Patient, Metric, AppointmentSlot } fro
 
 @Component({
   selector: 'app-dashboard',
+  standalone: true,
   template: `
     <section class="dashboard">
       <div class="dash-left">

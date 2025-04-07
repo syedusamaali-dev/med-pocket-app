@@ -3,6 +3,7 @@ import { LAB_REPORTS, LabReport } from './mock-data';
 
 @Component({
   selector: 'app-medical-records',
+  standalone: true,
   template: `
     <section class="page">
       <div class="page-head">
