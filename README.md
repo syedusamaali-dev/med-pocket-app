@@ -31,25 +31,25 @@ A high-performance, feature-rich Telemedicine application built with Angular fea
 
 ## Telehealth Consultation & PiP Video Streams
 
-![Telehealth Call](README-assets/telehealth.png)
+![Telehealth Call](README-assets/register.PNG)
 
 ---
 
 ## Interactive Consultation Calendar & Appointments
 
-![Appointments](README-assets/appointments.png)
+![Appointments](README-assets/checkout.PNG)
 
 ---
 
 ## Patient Management & Medical Records
 
-![Patients](README-assets/patients.png)
+![Patients](README-assets/cart.PNG)
 
 ---
 
 ## Digital Prescriptions & Lab Reports
 
-![Prescriptions](README-assets/prescriptions.png)
+![Prescriptions](README-assets/login.PNG)
 
 ---
 
